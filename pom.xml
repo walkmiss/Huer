@@ -14,6 +14,7 @@
 
 
     <packaging>pom</packaging>
+	<!-- 写个注释 -->
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
